@@ -43,7 +43,7 @@ $bp = dirname(__FILE__);
 
 require $bp . '/app/bootstrap.php';
 
-/**
+/*
  * Set include path
  */
 
